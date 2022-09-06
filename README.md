@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+###About me
+Mi formación profesional es ingeniera en informática. Soy programadora y diseñadora gráfico. Puedo crear aplicaciones, videojuegos y webs. 
+Me encanta crear diseños artísticos para videojuegos. Puedo producir diseño gráfico para videojuegos con los fundamentos básicos del diseño. Amo hacer diseño de interfaces creativas.
+Me gustan las bases de datos relacionales, SQL y C#. Tengo más de 3 años trabajando con .NET y más de 6 con C#. 
+Me encantan los juegos y el desarrollo web y el diseño gráfico. Me gusta intercambiar conocimientos con mi equipo y trabajar con personas inteligentes y profesionales.
+Estoy interesada en hacer carrera profesional en la web y aumentar mis habilidades.
+Soy un gran trabajador y me encanta aprender cosas nuevas. Soy perfeccionista con mi trabajo y siempre me esfuerzo más para elevar mis propios estándares. Soy una persona social y abierta, y me encanta el ciclismo, el yoga y disfrutar de la música.
+
 <!--
 **valquiriacr21/valquiriacr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
