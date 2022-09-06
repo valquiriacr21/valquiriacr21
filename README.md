@@ -45,6 +45,8 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 
 <img alt="hello" src="[https://www.linkedin.com/in/loyda-cardenas-rey/overlay/1635494887504/single-media-viewer/](https://media-exp1.licdn.com/dms/image/C562DAQGrV4Ro4Q71UQ/profile-treasury-image-shrink_800_800/0/1656870552409?e=1663106400&v=beta&t=PLNLb_LnuIPbSH9Z_c42SxuJD9FWyKAfbA7w6SpCD5Y)">
 
+
+
  
 <!--
 **valquiriacr21/valquiriacr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
