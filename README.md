@@ -1,14 +1,17 @@
 ### Hi there 👋
 
 ### 💬About me
-Mi formación profesional es Ingeniera en Ciencias Informática. Soy dedicada como:
+Mi formación profesional es Ingeniera en Ciencias Informática. 
+</p>Soy dedicada como:</p>
 - 🤔 Programadora de software.
 - 🤔 Resolución de algorimos
 - 😄 Diseñadora gráfica. 
-##### Puedo:
+
+<p>Puedo:</p>
 - Crear aplicaciones, videojuegos y webs. 
 - Producir diseño gráfico para videojuegos con los fundamentos básicos del diseño.
-##### Me encanta y amo:
+
+<p>Me encanta y amo:</p>
 - ♥  Crear diseños artísticos para videojuegos.
 - ♥  Hacer diseño de interfaces creativas para la WEB y Aplicaciones Móviles.
 - ♥  Los juegos 
@@ -16,19 +19,19 @@ Mi formación profesional es Ingeniera en Ciencias Informática. Soy dedicada co
 - ♥  Intercambiar conocimientos con mi equipo y  y profesionales.
 - ♥  Aprender cosas nuevas
   
-##### Me gustan:
+<p>Me gustan:</p>
 -  BD relacionales 
 -  SQL
 -  C#
 -  Unity 3D
 -  Angular Material
--  
+-  .Net Core
 
 <p>Años de experiencia:</p>
 -   3+  trabajando con .NET
 -   8+  trabajando con C#
  
-Estoy interesada en hacer carrera profesional en la web y aumentar mis habilidades. Soy perfeccionista con mi trabajo y siempre me esfuerzo más para elevar mis propios estándares. 
+<p>Estoy interesada en hacer carrera profesional en la web y aumentar mis habilidades. Soy perfeccionista con mi trabajo y siempre me esfuerzo más para elevar mis propios estándares. </p>
 
 ##### ♥ Hobbies:
 - 🚴  Ciclismo
