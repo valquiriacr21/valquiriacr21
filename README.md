@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 💬 About me
 Mi formación profesional es Ingeniera en Ciencias Informática. 
 
