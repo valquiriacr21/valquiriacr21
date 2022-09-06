@@ -5,18 +5,18 @@ Mi formación profesional es Ingeniera en Ciencias Informática. Soy dedicada co
 - 🤔 Programadora de software.
 - 🤔 Resolución de algorimos
 - 😄 Diseñadora gráfica. 
-Puedo:
+##### Puedo:
 - Crear aplicaciones, videojuegos y webs. 
 - Producir diseño gráfico para videojuegos con los fundamentos básicos del diseño.
-Me encanta y amo:
-- 💘  Crear diseños artísticos para videojuegos.
-- 💘  Hacer diseño de interfaces creativas para la WEB y Aplicaciones Móviles.
-- 💘  Los juegos 
-- 💘  Trabajar con personas inteligentes y colaboradoras en el crecimiento del equipo.
-- 💘  Intercambiar conocimientos con mi equipo y  y profesionales.
-- 💘  Aprender cosas nuevas
+##### Me encanta y amo:
+- ♥  Crear diseños artísticos para videojuegos.
+- ♥  Hacer diseño de interfaces creativas para la WEB y Aplicaciones Móviles.
+- ♥  Los juegos 
+- ♥  Trabajar con personas inteligentes y colaboradoras en el crecimiento del equipo.
+- ♥  Intercambiar conocimientos con mi equipo y  y profesionales.
+- ♥  Aprender cosas nuevas
   
-Me gustan:
+##### Me gustan:
 -  BD relacionales 
 -  SQL
 -  C#
@@ -30,7 +30,7 @@ Me gustan:
  
 Estoy interesada en hacer carrera profesional en la web y aumentar mis habilidades. Soy perfeccionista con mi trabajo y siempre me esfuerzo más para elevar mis propios estándares. 
 
-♥ Hobbies:
+##### ♥ Hobbies:
 - 🚴  Ciclismo
 - 🕉   El yoga 
 - 🖋   Escribir
