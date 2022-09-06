@@ -2,16 +2,17 @@
 
 ### 💬About me
 Mi formación profesional es Ingeniera en Ciencias Informática. 
-</p>Soy dedicada como:</p>
+
+##### Soy dedicada como:
 - 🤔 Programadora de software.
-- 🤔 Resolución de algorimos
+- 🤔 Resolucionadora de algorimos
 - 😄 Diseñadora gráfica. 
 
-<p>Puedo:</p>
+##### Puedo:
 - Crear aplicaciones, videojuegos y webs. 
 - Producir diseño gráfico para videojuegos con los fundamentos básicos del diseño.
 
-<p>Me encanta y amo:</p>
+##### Me encanta y amo:
 - ♥  Crear diseños artísticos para videojuegos.
 - ♥  Hacer diseño de interfaces creativas para la WEB y Aplicaciones Móviles.
 - ♥  Los juegos 
@@ -19,7 +20,7 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 - ♥  Intercambiar conocimientos con mi equipo y  y profesionales.
 - ♥  Aprender cosas nuevas
   
-<p>Me gustan:</p>
+##### Me gustan:
 -  BD relacionales 
 -  SQL
 -  C#
@@ -27,7 +28,7 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 -  Angular Material
 -  .Net Core
 
-<p>Años de experiencia:</p>
+##### Años de experiencia:
 -   3+  trabajando con .NET
 -   8+  trabajando con C#
  
@@ -41,6 +42,8 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 - 🎸  Guitarra
 - 🎤  Cantar
 - 🎶  Musica
+
+<img alt="hello" src="[https://www.linkedin.com/in/loyda-cardenas-rey/overlay/1635494887504/single-media-viewer/](https://media-exp1.licdn.com/dms/image/C562DAQGrV4Ro4Q71UQ/profile-treasury-image-shrink_800_800/0/1656870552409?e=1663106400&v=beta&t=PLNLb_LnuIPbSH9Z_c42SxuJD9FWyKAfbA7w6SpCD5Y)">
 
  
 <!--
