@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 💬About me
+### 💬 About me
 Mi formación profesional es Ingeniera en Ciencias Informática. 
 
 ##### Soy dedicada como:
@@ -11,6 +11,20 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 ##### Puedo:
 - Crear aplicaciones, videojuegos y webs. 
 - Producir diseño gráfico para videojuegos con los fundamentos básicos del diseño.
+
+#### Skills || Habilidades -> Graphic Design || Diseñador Gráfico 
+<div style="">
+ <img style="width:50px !important; height:50px !important; margin:3px !important;" src="https://user-images.githubusercontent.com/69176721/188746453-1785a745-2f22-4ec3-b250-a30126c29d2d.png"> 
+  <img style="width:50px !important; height:50px !important; margin:3px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png?20210507122249"> 
+  
+</div>
+
+#### Skills || Habilidades -> Developer || Desarrollador
+<div style="">
+<img style="width:50px !important; height:50px !important ; margin:3px !important;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"> 
+ <img style="width:50px !important; height:50px !important; margin:3px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203"> 
+  <img style="width:50px !important; height:50px !important" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">  
+</div>
 
 ##### Me encanta y amo:
 - ♥  Crear diseños artísticos para videojuegos.
@@ -24,10 +38,12 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 -  BD relacionales 
 -  SQL
 -  C#
--  Unity 3D
+-  Unity 3D 
 -  Angular Material
 -  .Net Core
 
+
+  
 ##### Años de experiencia:
 -   3+  trabajando con .NET
 -   8+  trabajando con C#
@@ -42,10 +58,6 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 - 🎸  Guitarra
 - 🎤  Cantar
 - 🎶  Musica
-
-<img alt="hello" src="[https://www.linkedin.com/in/loyda-cardenas-rey/overlay/1635494887504/single-media-viewer/](https://media-exp1.licdn.com/dms/image/C562DAQGrV4Ro4Q71UQ/profile-treasury-image-shrink_800_800/0/1656870552409?e=1663106400&v=beta&t=PLNLb_LnuIPbSH9Z_c42SxuJD9FWyKAfbA7w6SpCD5Y)">
-
-
 
  
 <!--
