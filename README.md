@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ###About me
-Mi formación profesional es ingeniera en informática. Soy programadora y diseñadora gráfico. Puedo crear aplicaciones, videojuegos y webs. 
+#####Mi formación profesional es ingeniera en informática. Soy programadora y diseñadora gráfico. Puedo crear aplicaciones, videojuegos y webs. 
 Me encanta crear diseños artísticos para videojuegos. Puedo producir diseño gráfico para videojuegos con los fundamentos básicos del diseño. Amo hacer diseño de interfaces creativas.
 Me gustan las bases de datos relacionales, SQL y C#. Tengo más de 3 años trabajando con .NET y más de 6 con C#. 
 Me encantan los juegos y el desarrollo web y el diseño gráfico. Me gusta intercambiar conocimientos con mi equipo y trabajar con personas inteligentes y profesionales.
