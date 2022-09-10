@@ -3,7 +3,7 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 
 ##### Soy dedicada como:
 - 🤔 Programadora de software.
-- 🤔 Resolucionadora de algorimos
+- 🤔 Resolucionadora de algoritmos
 - 😄 Diseñadora gráfica. 
 
 ##### Puedo:
