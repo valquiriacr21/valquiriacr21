@@ -9,7 +9,7 @@ Mi formación profesional es Ingeniera en Ciencias Informática.
 
 ##### Puedo:
 - Crear <strong> aplicaciones, videojuegos y webs. </strong>
-- Producir diseño gráfico para videojuegos con los fundamentos básicos del diseño.
+- Producir <strong> diseño gráfico</strong> para videojuegos con los fundamentos básicos del diseño.
 
 #### <h3>⚙ Skills - Habilidades: Developer || Desarrollador </h3>
 <div style="display:flex; flex:1;">
@@ -29,8 +29,8 @@ https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOr
 </div>
 
 ##### Me encanta y amo:
-- ♥  Crear diseños artísticos para videojuegos.
-- ♥  Hacer diseño de interfaces creativas para la WEB y Aplicaciones Móviles.
+- ♥  Crear <strong>diseños artísticos 💪 </strong> para videojuegos.
+- ♥  Hacer diseño de <strong>interfaces creativas</strong> para la WEB y Aplicaciones Móviles.
 - ♥  Los juegos 
 - ♥  Trabajar con personas inteligentes y colaboradoras en el crecimiento del equipo.
 - ♥  Intercambiar conocimientos con mi equipo y  y profesionales.
