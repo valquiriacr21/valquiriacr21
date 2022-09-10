@@ -1,17 +1,17 @@
 ### <h1 style="background-color:blueviolet;">💬 About me</h1>
-Mi formación profesional es Ingeniera en Ciencias Informática. 
+My professional training is Computer Science Engineering.
 
-##### Soy dedicada como:
-- 🤔 Programadora de software.
-- 🤔 Resolucionadora de algoritmos
-- 🤔Programadora de Bases de datos
-- 😄 Diseñadora gráfica. 
+##### I am dedicated as::
+- 🤔 Algorithm solver
+- 🤔 Software programmer.
+- 🤔 Database Programmer
+- 😄 Graphic designer.
 
-##### Puedo:
-- Crear <strong> aplicaciones, videojuegos y webs. </strong>
-- Producir <strong> diseño gráfico</strong> para videojuegos con los fundamentos básicos del diseño.
+##### I can:
+- Create <strong>applications, video games and websites.</strong>
+- Produce <strong> graphic design</strong> for video games with the basic fundamentals of design.
 
-#### <h3>⚙ Skills - Habilidades: Developer || Desarrollador </h3>
+#### <h3>⚙ Skills: Developer </h3>
 <div style="display:flex; flex:1;">
  <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin-left:10px !important;" src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw">
  <img style="width:95px !important; height:60px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png">
@@ -28,15 +28,15 @@ https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOr
 -->
 </div>
 
-##### Me encanta y amo:
-- ♥  Crear <strong>diseños artísticos 💪 </strong> para videojuegos.
-- ♥  Hacer diseño de <strong>interfaces creativas</strong> para la WEB y Aplicaciones Móviles.
-- ♥  Los juegos 
-- ♥  Trabajar con personas inteligentes y colaboradoras en el crecimiento del equipo.
-- ♥  Intercambiar conocimientos con mi equipo y  y profesionales.
-- ♥  Aprender cosas nuevas
+##### I love:
+- ♥  Create <strong>artistic designs 💪 </strong> for video games.
+- ♥  Design <strong>creative interfaces</strong> for the WEB and Mobile Applications. 
+- ♥  The games 
+- ♥  Work with intelligent and collaborative people in the growth of the team. 
+- ♥  Exchange knowledge with my team and professionals. 
+- ♥  Learn new things
   
-####  <h3> ⚙ Skills - Habilidades: Graphic Design || Diseñador Gráfico </h3>
+####  <h3> ⚙ Skills: Graphic Design </h3>
 <div style="display:flex !important; flex:1; !important">
  <img style="width:70px !important; height:70px !important; margin:3px !important;" src="https://user-images.githubusercontent.com/69176721/188746453-1785a745-2f22-4ec3-b250-a30126c29d2d.png"> 
   
@@ -58,25 +58,25 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 ##### <h3> Años de experiencia:</h3>
 
 -   <div style="background-color:blueviolet;color:white;">3+ trabajando con .NET </div> 
--   3+  trabajando con SQL
--   8+  trabajando con C#
--   6+  trabajando con Unity 3D
--   1+ trabajando con Angular
+-   3+ working with .NET 
+-   3+ working with SQL
+-   8+ working with C#
+-   6+ working with Unity 3D
+-   1+ working with Angular
  
-<p>Estoy interesada en hacer carrera profesional en la web y aumentar mis habilidades. Soy perfeccionista con mi trabajo y siempre me esfuerzo más para elevar mis propios estándares. </p>
+<p>I am interested in making a professional career on the web and increasing my skills. I am a perfectionist with my work and always try harder to raise my own standards. </p>
 
 ##### <h3> ♥ Hobbies:</h3>
 <div style="display:inline;  font-size:200px !important;">
- <div style="font-size:200em !important;">🚴  Ciclismo</div>
- <div style="font-size:200em !important;">🕉   El yoga </div>
- <div style="font-size:200em !important;">🖋   Escribir</div>
- <div style="font-size:200em !important;">📸  Fotografía </div>
- <div style="font-size:200em !important;">🎸  Guitarra</div>
- <div style="font-size:200em !important;">🎤  Cantar</div>
- <div style="font-size:200em !important;">🎶  Musica</div>
- <div style="font-size:200em !important;">🛋   Leer</div>
- <div style="font-size:200em !important;">🕹   Jugar</div>
- 
+ <div style="font-size:200em !important;">🚴  Cycling</div>
+ <div style="font-size:200em !important;">🕉   Yoga </div>
+ <div style="font-size:200em !important;">🖋   Write</div>
+ <div style="font-size:200em !important;">📸  Photography </div>
+ <div style="font-size:200em !important;">🎸  Guitar</div>
+ <div style="font-size:200em !important;">🎤  Sing</div>
+ <div style="font-size:200em !important;">🎶  Music</div>
+ <div style="font-size:200em !important;">🛋   Read</div>
+ <div style="font-size:200em !important;">🕹   Play</div>
  </div>
 
  
