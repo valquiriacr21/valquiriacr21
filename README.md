@@ -61,6 +61,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 -   3+  trabajando con SQL
 -   8+  trabajando con C#
 -   6+  trabajando con Unity 3D
+-   1+ trabajando con Angular
  
 <p>Estoy interesada en hacer carrera profesional en la web y aumentar mis habilidades. Soy perfeccionista con mi trabajo y siempre me esfuerzo más para elevar mis propios estándares. </p>
 
