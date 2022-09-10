@@ -1,17 +1,23 @@
 ### <h1 style="background-color:blueviolet;">💬 About me</h1>
-My professional training is Computer Science Engineering.
+ My professional training is 💻<strong> Computer Science Engineering </strong>.
+
 
 ##### I am dedicated as::
-- 🤔 Algorithm solver
+- 🤔 Algorithm solver 😄
 - 🤔 Software programmer.
-- 🤔 Database Programmer
-- 😄 Graphic designer.
+- 🤔 Database Programmer 😄
+- 😄 I am a Graphic designer. 
+- 🦸 I am a videogame developer too.
+- 🕹️ Test many games 😄❤️❤️❤️.
+- 🔨 I currently work as an entrepreneur in C# and Unity. My other main skills are listed below 👇
+- 🎮 I love working with games and honing my skills, always getting better 🙃
+- 💡 I love the ❤️ emojis 😄 and also play some games 🕹️
 
 ##### I can:
 - Create <strong>applications, video games and websites.</strong>
-- Produce <strong> graphic design</strong> for video games with the basic fundamentals of design.
+- Produce <strong> graphic design</strong> for video games with the basic fundamentals of design.❤️ 
 
-#### <h3>⚙ Skills: Developer </h3>
+#### <h3> 🛠️ Languages, Technologies and Tools </h3>
 <div style="display:flex; flex:1;">
  <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin-left:10px !important;" src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw">
  <img style="width:95px !important; height:60px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png">
@@ -22,21 +28,24 @@ My professional training is Computer Science Engineering.
   <img style="width:70px !important; height:70px !important" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">  
  <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://icon2.cleanpng.com/20180320/aae/kisspng-microsoft-sql-server-database-administrator-comput-free-high-quality-sql-server-icon-5ab0c7c98f8903.6322699015215349215879.jpg">
  <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://icon2.cleanpng.com/20180403/rhq/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa0acf224.4627899815227862087084.jpg">
+ <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67">
  <!--https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.webp
 https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw
 https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png
+https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67
 -->
 </div>
 
 ##### I love:
 - ♥  Create <strong>artistic designs 💪 </strong> for video games.
-- ♥  Design <strong>creative interfaces</strong> for the WEB and Mobile Applications. 
+- ♥  Design <strong>creative interfaces 🎨</strong> for the WEB and Mobile Applications. 
 - ♥  The games 
-- ♥  Work with intelligent and collaborative people in the growth of the team. 
-- ♥  Exchange knowledge with my team and professionals. 
-- ♥  Learn new things
+- ♥  Work with intelligent and collaborative people in the growth of the team. 😄
+- ♥  Exchange knowledge with my team and professionals. 😄 
+- ♥  Learn new things 🙃
   
-####  <h3> ⚙ Skills: Graphic Design </h3>
+  
+####  <h3> 🎨 Art and Management </h3>
 <div style="display:flex !important; flex:1; !important">
  <img style="width:70px !important; height:70px !important; margin:3px !important;" src="https://user-images.githubusercontent.com/69176721/188746453-1785a745-2f22-4ec3-b250-a30126c29d2d.png"> 
   
@@ -64,7 +73,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 -   6+ working with Unity 3D
 -   1+ working with Angular
  
-<p>I am interested in making a professional career on the web and increasing my skills. I am a perfectionist with my work and always try harder to raise my own standards. </p>
+<p>I am interested in making a professional career on the web and increasing my skills. I am a perfectionist with my work and always try harder to raise my own standards. 🙃</p>
 
 ##### <h3> ♥ Hobbies:</h3>
 <div style="display:inline;  font-size:200px !important;">
@@ -76,7 +85,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
  <div style="font-size:200em !important;">🎤  Sing</div>
  <div style="font-size:200em !important;">🎶  Music</div>
  <div style="font-size:200em !important;">🛋   Read</div>
- <div style="font-size:200em !important;">🕹   Play</div>
+ <div style="font-size:200em !important;">🕹️  Play</div>
  </div>
 
  
