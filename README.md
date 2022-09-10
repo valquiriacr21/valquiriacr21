@@ -55,7 +55,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 -->
 </div>
 
-##### <h3> Años de experiencia:</h3>
+##### <h3> Years of experience:</h3>
 
 -   <div style="background-color:blueviolet;color:white;">3+ trabajando con .NET </div> 
 -   3+ working with .NET 
