@@ -39,7 +39,7 @@ https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38
 ##### I love:
 - ♥  Create <strong>artistic designs 💪 </strong> for video games.
 - ♥  Design <strong>creative interfaces 🎨</strong> for the WEB and Mobile Applications. 
-- ♥  The games 
+- ♥  The games 🕹️
 - ♥  Work with intelligent and collaborative people in the growth of the team. 😄
 - ♥  Exchange knowledge with my team and professionals. 😄 
 - ♥  Learn new things 🙃
