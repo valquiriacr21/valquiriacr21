@@ -81,9 +81,10 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
  <a href="https://www.linkedin.com/in/loyda-cardenas-rey/" rel="nofollow">
         <img alt="My LinkedIn" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a><br></br>
-<i class="fa fa-phone"></i>
-<img alt="Email: " src="https://icons8.com/icon/85164/phone" />
+
+
  <a href="mailto:loyda.cardenasrey@gmail.com">loyda.cardenasrey@gmail.com</a><br></br>
+ <img alt="Phone: " src="https://img.icons8.com/material-rounded/512/phone.png" />
  <a href="tel:+19496857507">+1 (949) 685-7507</a>
 
 ##### <h3> ♥ Hobbies:</h3>
