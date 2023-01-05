@@ -84,7 +84,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 
 
  <a href="mailto:loyda.cardenasrey@gmail.com">loyda.cardenasrey@gmail.com</a><br></br>
- <img alt="Phone: " src="https://img.icons8.com/material-rounded/512/phone.png" />
+ <img alt="Phone: " src="https://img.icons8.com/material-rounded/512/phone.png" style="width:50px !important; height:50px !important;"/>
  <a href="tel:+19496857507">+1 (949) 685-7507</a>
 
 ##### <h3> ♥ Hobbies:</h3>
