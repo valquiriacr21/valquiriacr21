@@ -40,9 +40,9 @@
   <img style="width:70px !important; height:70px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203"> 
  
   ##### 🛠️ VERSION CONTROL
- <><img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67"> (https://github.com/valquiriacr21)
+ [<img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67">] (https://github.com/valquiriacr21)
  
- [GITHUB](https://github.com/valquiriacr21)
+
   
 
  
