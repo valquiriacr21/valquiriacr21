@@ -23,12 +23,9 @@
 <>
  ##### 🛠️ FRONT END Languages
  | FRONTEND Languages|
- | ------------- |:-------------:| :-------------:| 
+ | ------------- |:-------------:|-------------:| 
  |[HTML](https://www.w3schools.com/html/)|[CSS](https://www.w3schools.com/css/default.asp)|[JS](https://www.w3schools.com/js/default.asp)|
- 
-| <img alt="html" style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin-left:10px !important;" src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw">|
- <img alt="css" style="width:95px !important; height:60px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png">|
-  <img alt="js" style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://conectasoftware.com/wp-content/uploads/2020/03/JS.jpg">|
+| <img alt="html" style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin-left:10px !important;" src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw">| <img alt="css" style="width:95px !important; height:60px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png">|<img alt="js" style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://conectasoftware.com/wp-content/uploads/2020/03/JS.jpg">|
  
 ##### 🛠️ BACKEND Languages
  <img alt= "C#" style="width:70px !important; height:70px !important" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">  
