@@ -33,7 +33,9 @@
  
 #### 🛠️ Technologies
  ##### 🛠️ Videogames
-<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"> 
+  | ENGINE| 
+| ------------- |
+|<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"> |
   
   ##### 🛠️ BACKEND Technologies
   | SQL SERVER| .NET CORE |
@@ -47,8 +49,6 @@
 |<img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67">| 
  
 
-  
-
  
  ##### 🛠️ FRONT END Framework and Library
 | Framework | Library |
@@ -57,8 +57,6 @@
 | <img style="width:80px !important; height:80px !important ; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png"> | <img style="width:80px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">|
  
 
- 
-  
  
  
  <!--https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.webp
