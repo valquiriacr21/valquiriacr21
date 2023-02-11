@@ -43,7 +43,7 @@
  <https://github.com/valquiriacr21><img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67"> 
   
   GITHUB
-  ![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67) "GITHUB")
+  ![alt text]([[https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67)](https://github.com/valquiriacr21) "GITHUB")
  
  ##### 🛠️ FRONT END Framework and Library
  <[http://www.limni.net](https://angular.io/)><img style="width:80px !important; height:80px !important ; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png">
