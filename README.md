@@ -1,10 +1,7 @@
 # 💬 About me
  My professional training is 💻<strong> Computer Science Engineering </strong>.
 
-
-
-
-##### I am dedicated as::
+#### I am dedicated as:
 - 🤔 Algorithm solver 😄
 - 🤔 Software programmer.
 - 🤔 Database Programmer 😄
@@ -15,11 +12,13 @@
 - 🎮 I love working with games and honing my skills, always getting better 🙃
 - 💡 I love the ❤️ emojis 😄 and also play some games 🕹️
 
-##### I can:
+#### I can:
 - Create <strong>applications, video games and websites.</strong>
 - Produce <strong> graphic design</strong> for video games with the basic fundamentals of design.❤️ 
 
-#### <h3> 🛠️ Languages, Technologies and Tools </h3>
+### 🛠️ Languages, Technologies and Tools
+
+#### 🛠️ Languages
 <div style="display:flex; flex:1;">
  <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin-left:10px !important;" src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw">
  <img style="width:95px !important; height:60px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png">
@@ -50,7 +49,7 @@ https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38
 - ♥  Learn new things 🙃
   
   
-####  <h3> 🎨 Art and Management </h3>
+###   🎨 Art and Management
 <div style="display:flex !important; flex:1; !important">
  <img style="width:70px !important; height:70px !important; margin:3px !important;" src="https://user-images.githubusercontent.com/69176721/188746453-1785a745-2f22-4ec3-b250-a30126c29d2d.png"> 
   
