@@ -47,8 +47,13 @@
 
  
  ##### 🛠️ FRONT END Framework and Library
- <[ANGULAR](https://angular.io/)><img style="width:80px !important; height:80px !important ; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png">
- <[REACT]https://reactjs.org/><img style="width:80px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+ Framework | Library 
+--- | --- | ---
+[ANGULAR](https://angular.io/) | [REACT](https://reactjs.org/>) 
+ <img style="width:80px !important; height:80px !important ; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png"> | <img style="width:80px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+ 
+
+ 
   
  
  
