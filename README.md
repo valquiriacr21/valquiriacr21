@@ -2,6 +2,7 @@
  My professional training is 💻<strong> Computer Science Engineering </strong>.
 
 #### I am dedicated as:
+
 - 🤔 Algorithm solver 😄
 - 🤔 Software programmer.
 - 🤔 Database Programmer 😄
@@ -19,13 +20,14 @@
 ### 🛠️ Languages, Technologies and Tools
 
 #### 🛠️ Languages
- ##### 🛠️ FRONT END
+<>
+ ##### 🛠️ FRONT END Languages
 <div style="display:flex; flex:1;">
  <img alt="html" style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin-left:10px !important;" src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw">
  <img alt="css" style="width:95px !important; height:60px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png">
   <img alt="js" style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://conectasoftware.com/wp-content/uploads/2020/03/JS.jpg">
  
-##### 🛠️ BACKEND
+##### 🛠️ BACKEND Languages
  <img alt= "C#" style="width:70px !important; height:70px !important" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">  
  <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://icon2.cleanpng.com/20180403/rhq/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa0acf224.4627899815227862087084.jpg">
  
@@ -38,11 +40,12 @@
   <img style="width:70px !important; height:70px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png?20210328084203"> 
  
   ##### 🛠️ VERSION CONTROL
- <img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67"> 
+ <https://github.com/valquiriacr21><img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67"> 
  
- ##### 🛠️ FRONT END
- <img style="width:80px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-  <img style="width:80px !important; height:80px !important ; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png">
+ ##### 🛠️ FRONT END Framework and Library
+ <[http://www.limni.net](https://angular.io/)><img style="width:80px !important; height:80px !important ; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png">
+ <https://reactjs.org/><img style="width:80px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  
  
  
  <!--https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.webp
