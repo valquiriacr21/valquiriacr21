@@ -121,14 +121,14 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 
 ##### <h3> ♥ Hobbies:</h3>
 <div style="display:inline;  font-size:200px !important;">
- <div style="font-size:200em !important;">Sports  </div>
- <div style="font-size:200em !important;">🚴  Cycling</div>
- <div style="font-size:200em !important;">🕉   Yoga </div>
- <div style="font-size:200em !important;">🖋   Write</div>
- <div style="font-size:200em !important;">📸  Photography </div>
- <div style="font-size:200em !important;">🎸  Guitar</div>
- <div style="font-size:200em !important;">🎤  Sing</div>
- <div style="font-size:200em !important;">🎶  Music</div>
+ | SPORTS | ARTS |
+| ------------- |:-------------:| 
+| <div style="font-size:200em !important;">🚴  Cycling</div>|<div style="font-size:200em !important;">🖋   Write</div>|
+| <div style="font-size:200em !important;">🕉   Yoga </div>| <div style="font-size:200em !important;">📸  Photography </div>|
+| <div style="font-size:200em !important;">🚴   GYMS </div>|<div style="font-size:200em !important;">🎸  Guitar</div>|
+| <div style="font-size:200em !important;">🚴    Walk Trials </div>| <div style="font-size:200em !important;">🎤  Sing</div>|
+ | <div style="font-size:200em !important;">🚴   Mountain Hiking </div>|<div style="font-size:200em !important;">🎶  Music</div>|
+
  <div style="font-size:200em !important;">🛋   Read</div>
  <div style="font-size:200em !important;">🕹️  Play</div>
  </div>
