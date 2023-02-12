@@ -95,13 +95,15 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 </div>
 
 #####  Years of experience:
-
--   <div style="background-color:blueviolet;color:white;">3+ trabajando con .NET </div> 
--   3+ working with .NET 
--   3+ working with SQL
--   8+ working with C#
--   6+ working with Unity 3D
--   1+ working with Angular
+| Languages | Years |
+| ------------- |:-------------:| 
+|**working with .NET & .NET CORE |3+|
+|working with SQL & MICROSOFT SQL SERVER|3+|
+|working with C#|8+|
+|working with HTML & CSS & Javascript|3+|
+|working with Unity 3D|6+|
+|working with Angular|1+|
+|working with REACT|1+|
  
 <p>I am interested in making a professional career on the web and increasing my skills. I am a perfectionist with my work and always try harder to raise my own standards. 🙃</p>
 
@@ -119,6 +121,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 
 ##### <h3> ♥ Hobbies:</h3>
 <div style="display:inline;  font-size:200px !important;">
+ <div style="font-size:200em !important;">Sports  </div>
  <div style="font-size:200em !important;">🚴  Cycling</div>
  <div style="font-size:200em !important;">🕉   Yoga </div>
  <div style="font-size:200em !important;">🖋   Write</div>
