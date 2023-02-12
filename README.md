@@ -120,15 +120,14 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
  <a href="tel:+19496857507">+1 (949) 685-7507</a></p>
 
 ###  ♥ Hobbies:
-| SPORTS | ARTS |
-| ------------- |:-------------:| 
-|🚴  Cycling|🖋   Write|
-|🕉   Yoga |📸  Photography |
-|🚴   GYMS|🎸  Guitar|
-| 🚴    Walk Trials | 🎤  Sing|
-| 🚴   Mountain Hiking |🎶  Music|
- <div style="font-size:200em !important;">🛋   Read</div>
- <div style="font-size:200em !important;">🕹️  Play</div>
+| SPORTS | ARTS | Others
+| ------------- |:-------------:| :-------------:| 
+|🚴  Cycling|🖋   Write| 🛋   Read|
+|🕉   Yoga |📸  Photography |🕹️  Play games|
+|🚴   GYMS|🎸  Guitar||
+| 🚴    Walk Trials | 🎤  Sing||
+| 🚴   Mountain Hiking |🎶  Music||
+
 
 <!--
 **valquiriacr21/valquiriacr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
