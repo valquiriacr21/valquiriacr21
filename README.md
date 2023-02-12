@@ -119,19 +119,17 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
  <img alt="Phone: " src="https://img.icons8.com/material-rounded/512/phone.png" style="width:20px !important; height:20px !important;margin-top:3px;align: center;"/>
  <a href="tel:+19496857507">+1 (949) 685-7507</a></p>
 
-##### <h3> ♥ Hobbies:</h3>
-<div style="display:inline;  font-size:200px !important;">
- | SPORTS | ARTS |
+###  ♥ Hobbies:
+| SPORTS | ARTS |
 | ------------- |:-------------:| 
-| <div style="font-size:200em !important;">🚴  Cycling</div>|<div style="font-size:200em !important;">🖋   Write</div>|
-| <div style="font-size:200em !important;">🕉   Yoga </div>| <div style="font-size:200em !important;">📸  Photography </div>|
-| <div style="font-size:200em !important;">🚴   GYMS </div>|<div style="font-size:200em !important;">🎸  Guitar</div>|
-| <div style="font-size:200em !important;">🚴    Walk Trials </div>| <div style="font-size:200em !important;">🎤  Sing</div>|
- | <div style="font-size:200em !important;">🚴   Mountain Hiking </div>|<div style="font-size:200em !important;">🎶  Music</div>|
-
+|🚴  Cycling|🖋   Write|
+|🕉   Yoga |📸  Photography |
+|🚴   GYMS|🎸  Guitar|
+| 🚴    Walk Trials | 🎤  Sing|
+| 🚴   Mountain Hiking |🎶  Music|
  <div style="font-size:200em !important;">🛋   Read</div>
  <div style="font-size:200em !important;">🕹️  Play</div>
- </div>
+
 <!--
 **valquiriacr21/valquiriacr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
