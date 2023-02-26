@@ -116,8 +116,8 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
  <img alt="Email: " src="https://img.icons8.com/ios-filled/512/filled-message.png" style="width:20px !important; height:20px !important;margin-top:3px;align: center;"/>
  <a href="mailto:loyda.cardenasrey@gmail.com">loyda.cardenasrey@gmail.com</a><br></br></p>
  <p>
- <img alt="Phone: " src="https://img.icons8.com/material-rounded/512/phone.png" style="width:20px !important; height:20px !important;margin-top:3px;align: center;"/>
- <a href="tel:+19496857507">+1 (949) 685-7507</a></p>
+ <!--<img alt="Phone: " src="https://img.icons8.com/material-rounded/512/phone.png" style="width:20px !important; height:20px !important;margin-top:3px;align: center;"/>
+ <a href="tel:+19496857507">+1 (949) 685-7507</a></p>-->
 
 ###  ♥ Hobbies:
 | SPORTS | ARTS | Others
