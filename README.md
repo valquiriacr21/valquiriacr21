@@ -7,7 +7,7 @@
 - 🤔 Software programmer.
 - 🤔 Database Programmer 😄
 - 😄 I am a Graphic designer.
-- ❤️ Web Designer to.
+- ❤️ Web Designer too.
 - 🦸 I am a videogame developer too.
 - 🕹️ Test many games 😄❤️❤️❤️.
 - 🔨 I currently work as an entrepreneur in C# and Unity. My other main skills are listed below 👇
@@ -59,7 +59,6 @@
  
 
  
- 
  <!--https://i.blogs.es/544e7d/650_1000_javascript_logo/1366_2000.webp
 https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw
 https://desarrolloweb.com/storage/tag_images/actual/sT1RLpDHzInATuKnDUkwXhKoaIOrtS97gBtgiQ6M.png
@@ -68,7 +67,7 @@ https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38
 </div>
 
 ##### I love:
-- ♥  Create <strong>artistic designs 💪 </strong> for video games.
+- ♥  Create <strong>artistic designs 💪 </strong> for video games and web.
 - ♥  Design <strong>creative interfaces 🎨</strong> for the WEB and Mobile Applications. 
 - ♥  The games 🕹️
 - ♥  Work with intelligent and collaborative people in the growth of the team. 😄
