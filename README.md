@@ -47,7 +47,7 @@
 | VERSION CONTROL|
 | ------------- |
 |[GITHUB](https://github.com/valquiriacr21)|
-|<img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://camo.githubusercontent.com/f7136719569d71c8d08ea9c03a5dcc8fc8cc8136c9b38df1ad24bbd75cfb303b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f6769746875622d2d76312e706e67">| 
+|<img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://png2.cleanpng.com/sh/64f173bdb6d0ca96988cbf3af6b348df/L0KzQYm3U8I3N5dofZH0aYP2gLBuTfdqfJl6ep9sb33zhcXskr1qa5Dzi591b3fyPbjwlPh2al46edQDYUO2SITpU8hnOl84SqkDNEm4SYK8UsIxPGo9TKo7NEK5PsH1h5==/kisspng-github-computer-icons-logo-github-5ab8a3383b38f2.3278495915220498482426.png">| 
  
 
  
