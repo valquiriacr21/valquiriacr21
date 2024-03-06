@@ -30,13 +30,13 @@
 ##### 🛠️ BACKEND Languages
   | SQL | C# |
 | ------------- |:-------------:| 
- |<img alt= "C#" style="width:70px !important; height:70px !important" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> |<img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://icon2.cleanpng.com/20180403/rhq/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa0acf224.4627899815227862087084.jpg">|
+|<img alt= "C#" style="width:70px !important; height:70px !important" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">|<img style="width:70px !important; height:70px !important;border-radius:50% ;margin-top:10px !important; margin:10px !important;" src="https://icon2.cleanpng.com/20180403/rhq/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5ac3dfa0acf224.4627899815227862087084.jpg">|
  
 #### 🛠️ Technologies
  ##### 🛠️ Videogames
   | ENGINE| CMS |
 | ------------- |
-|<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"> |<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://simpleicon.com/wp-content/uploads/wordpress.png">|
+|<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png">|<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://simpleicon.com/wp-content/uploads/wordpress.png">|
   
   ##### 🛠️ BACKEND Technologies
   | SQL SERVER| .NET CORE |
