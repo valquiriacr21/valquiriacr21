@@ -34,8 +34,8 @@
  
 #### 🛠️ Technologies
  ##### 🛠️ Videogames
-  | ENGINE| CMS |
-| ------------- |
+  | ENGINE | CMS |
+| ------------- |:-------------:| 
 |<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png">|<img style="width:70px !important; height:70px !important ; margin:10px !important;" src="https://simpleicon.com/wp-content/uploads/wordpress.png">|
   
   ##### 🛠️ BACKEND Technologies
