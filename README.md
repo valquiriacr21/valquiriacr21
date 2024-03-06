@@ -104,6 +104,7 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 |working with Unity 3D|6+|
 |working with Angular|1+|
 |working with REACT|1+|
+|WordPress CMS|1+|
  
 <p>I am interested in making a professional career on the web and increasing my skills. I am a perfectionist with my work and always try harder to raise my own standards. 🙃</p>
 
