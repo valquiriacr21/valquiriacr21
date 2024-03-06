@@ -6,7 +6,8 @@
 - 🤔 Algorithm solver 😄
 - 🤔 Software programmer.
 - 🤔 Database Programmer 😄
-- 😄 I am a Graphic designer. 
+- 😄 I am a Graphic designer.
+- ❤️ Web Designer to.
 - 🦸 I am a videogame developer too.
 - 🕹️ Test many games 😄❤️❤️❤️.
 - 🔨 I currently work as an entrepreneur in C# and Unity. My other main skills are listed below 👇
@@ -108,10 +109,6 @@ https://cdna.artstation.com/p/softwares/icons/000/000/012/default/CorelDRAW_Grap
 <p>I am interested in making a professional career on the web and increasing my skills. I am a perfectionist with my work and always try harder to raise my own standards. 🙃</p>
 
 #####  ☎️ Contact 
-<p>
- <a href="https://www.linkedin.com/in/loyda-cardenas-rey/" rel="nofollow">
-        <img alt="My LinkedIn" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a><br></br></p>
  <p>
  <img alt="Email: " src="https://img.icons8.com/ios-filled/512/filled-message.png" style="width:20px !important; height:20px !important;margin-top:3px;align: center;"/>
  <a href="mailto:loyda.cardenasrey@gmail.com">loyda.cardenasrey@gmail.com</a><br></br></p>
